@@ -8,12 +8,12 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/caio-ian-oliveira-dev" target="_blank">
-    <img 
-    src='data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34"><rect width="34" height="34" rx="4" fill="%230077B5"/><path d="M8.5 14H13V25H8.5V14ZM10.75 12C9.231 12 8 10.769 8 9.25C8 7.731 9.231 6.5 10.75 6.5C12.269 6.5 13.5 7.731 13.5 9.25C13.5 10.769 12.269 12 10.75 12ZM15 14H19V16H19.08C19.613 15.01 21.022 13.82 23.05 13.82C27.31 13.82 28 16.79 28 20.34V25H23.5V20.98C23.5 19.05 23.47 16.68 21.02 16.68C18.55 16.68 18 18.68 18 20.82V25H13.5V14H15Z" fill="white"/></svg>' 
-    width="52" 
-    height="40" 
-    alt="LinkedIn Logo"
-  />
+   <img 
+  src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 34 34%22><rect width=%2234%22 height=%2234%22 rx=%224%22 fill=%22%230077B5%22/><path d=%22M8.5 14H13V25H8.5V14ZM10.75 12C9.231 12 8 10.769 8 9.25C8 7.731 9.231 6.5 10.75 6.5C12.269 6.5 13.5 7.731 13.5 9.25C13.5 10.769 12.269 12 10.75 12ZM15 14H19V16H19.08C19.613 15.01 21.022 13.82 23.05 13.82C27.31 13.82 28 16.79 28 20.34V25H23.5V20.98C23.5 19.05 23.47 16.68 21.02 16.68C18.55 16.68 18 18.68 18 20.82V25H13.5V14H15Z%22 fill=%22white%22/></svg>'
+  width="52" 
+  height="40" 
+  alt="LinkedIn Logo"
+/>
   </a>
 </div>
 
