@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: CaioIan
-          outputs: dist/snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push Snake Animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
