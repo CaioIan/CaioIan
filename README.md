@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a fullstack development student who loves exploring new technologies and improving my skills.</p>
+<p align="left">I'm a fullstack developer who loves exploring new technologies and continuously improving my skills.</p>
 
 ###
 
