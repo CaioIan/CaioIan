@@ -81,6 +81,18 @@ I'm a fullstack developer who loves exploring new technologies and continuously 
 
 ###
 
+<h2 align="center">Status</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CaioIan&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=CaioIan&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioIan&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <h2 align="center">Contact me!</h2>
 
 ###
