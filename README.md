@@ -1,79 +1,94 @@
-<h1 align="left">Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 ###
 
-<p align="left">I'm a fullstack developer who loves exploring new technologies and continuously improving my skills.</p>
+<h3 align="center">
+Fullstack Developer <br>
+🌱 Working with TypeScript and JavaScript <br>
+📖 PT-BR / ENG
+</h3>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<p align="center">
+I'm a fullstack developer who loves exploring new technologies and continuously improving my skills.
+</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitaep/vitaep/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitaep/vitaep/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/vitaep/vitaep/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="center">My Techs</h2>
+
+###
+
+<div align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=ts" height="75" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="75" />
+
+  <img width="24" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react" height="75" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="75" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="75" />
+
+  <img width="24" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="75" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="75" />
+
+  <img width="24" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql" height="75" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="75" />
+
+  <img width="24" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=docker" height="75" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="75" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="75" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="75" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="75" />
+
+  <img width="24" />
+
+  <!-- Enjoy -->
+  <img src="https://skillicons.dev/icons?i=prisma" height="75" />
+
+</div>
+
+###
+
+<h2 align="center">Contact me!</h2>
+
+###
+
+<div align="center">
   <a href="https://linkedin.com/in/caio-ian-oliveira-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="60" />
   </a>
-</div>
-
-###
-
-<h1 align="left">Skills</h1>
-
-###
-
-<h3 align="left">Language:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 align="left">Frontend:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
-
-###
-
-<h3 align="left">Backend:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-</div>
-
-###
-
-<h3 align="left">Version Control:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h3 align="left">Technologies that I enjoy:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ###
