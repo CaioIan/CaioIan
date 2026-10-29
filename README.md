@@ -1,106 +1,39 @@
-<h1 align="center">Hi there 👋</h1>
 
-###
+# Hi there 👋
 
-<h3 align="center">
-Fullstack Developer <br>
-🌱 Working with TypeScript and JavaScript <br>
-📖 PT-BR / ENG
-</h3>
+I'm a Full Stack Developer focused on building web applications, APIs, and digital solutions. I enjoy exploring new technologies, solving problems, and continuously improving my skills.
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-ian-oliveira-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaioIan)
 
-<br clear="both">
+## Skills
 
-<p align="center">
-I'm a fullstack developer who loves exploring new technologies and continuously improving my skills.
-</p>
+### Languages
 
-###
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitaep/vitaep/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitaep/vitaep/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/vitaep/vitaep/output/pacman-contribution-graph.svg">
-</picture>
+### Frontend
 
-###
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF)
 
-<h2 align="center">My Techs</h2>
+### Backend
 
-###
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 
-<div align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=ts" height="75" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="75" />
+### Databases & ORM
 
-  <img width="24" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
 
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react" height="75" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="75" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="75" />
+### Tools & Version Control
 
-  <img width="24" />
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="75" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="75" />
-
-  <img width="24" />
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql" height="75" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="75" />
-
-  <img width="24" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=docker" height="75" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="75" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="75" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="75" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="75" />
-
-  <img width="24" />
-
-  <!-- Enjoy -->
-  <img src="https://skillicons.dev/icons?i=prisma" height="75" />
-
-</div>
-
-###
-
-<h2 align="center">Status</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CaioIan&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=CaioIan&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioIan&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="center">Contact me!</h2>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/caio-ian-oliveira-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="60" />
-  </a>
-</div>
-
-###
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
